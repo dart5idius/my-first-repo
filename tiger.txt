@@ -1,5 +1,9 @@
 t tree
 i iodine
+<<<<<<< HEAD
 g garden
+=======
+g gold
+>>>>>>> alternative
 e extra
-r read
+r raven
